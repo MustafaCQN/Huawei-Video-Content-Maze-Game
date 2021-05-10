@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80149a2e40319314a80d84cc66d93fbd, type: 3}
+  m_Name: MenuSettings
+  m_EditorClassIdentifier: 
+  Menus:
+  - {fileID: 967858078468840602, guid: d1f320050f5de2248839f2fd97ef8f01, type: 3}
+  - {fileID: 6553711905841618823, guid: ce9e9a3e922b99f4abf9cbc2011d6e1a, type: 3}
+  - {fileID: 8251208502756680429, guid: 96fec415815db564baa202033c5422b7, type: 3}
