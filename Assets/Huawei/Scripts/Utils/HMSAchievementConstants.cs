@@ -1,0 +1,4 @@
+public class HMSAchievementConstants
+{
+	public const string Levels = "91F48B8A91E663BD756CC587BC5B414B9C8A965858505A5BEBCB2FBF31E33A56";
+}

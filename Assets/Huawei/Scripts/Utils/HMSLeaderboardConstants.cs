@@ -1,0 +1,4 @@
+public class HMSLeaderboardConstants
+{
+	public const string Scores = "1B9714CD036314F8AFD7CEF370E509AF41719B779C791DD4C8BE123060438298";
+}
